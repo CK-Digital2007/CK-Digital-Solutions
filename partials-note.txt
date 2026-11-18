@@ -1,0 +1,6 @@
+CK DIGITAL SOLUTIONS — MULTI-PAGE PORTFOLIO
+Pages: index.html, services.html, pricing.html, portfolio.html, contact.html
+Shared stylesheet: style.css
+Shared navigation and contact form behavior: script.js
+Contact: ckdigitalsolutions007@gmail.com | WhatsApp: +91 96658 15139
+Prices are starter package quotes. Domain and paid third-party costs are separate.
